@@ -47,7 +47,7 @@ Java • Spring Boot • .NET • C# • GCP • SQL • Spanner • API Design 
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Athmajanaji/Athmajanaji/main/assets/dev_banner.png" alt="dev banner" />
+  <img src="[https://raw.githubusercontent.com/Athmajanaji/Athmajanaji/main/assets/dev_banner.png](https://chatgpt.com/s/m_693563db1fe881919b3c021f531e9a8b)" alt="dev banner" />
 </p>
 
 ---
