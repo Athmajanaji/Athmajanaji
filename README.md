@@ -1,65 +1,101 @@
-<p  align="center"> <img  src="https://github.com/aseel-sm/aseel-sm/blob/main/giphy.gif" alt="aseel_sm git"/><p/>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Athmajan</h1>
-<h3 align="center">Student at College Of Engineering Trivandrum 🌟</h3>
-<br/>
-<!-- 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=aseel-sm&label=Profile%20views&color=0e75b6&style=flat"
-    alt="aseel-sm" /> 
-  </p> -->
-I'm  technical enthusiast who does web development 🌐 and mobile app development 📱. Passionate to contribute open-source projects and leveraging them to build cool stuffs 🛠️. 
- <br/>
-<br/>
-
-- 🌱 I’m currently learning Go
-
-- 👯 I’m looking to collaborate on Open Source Projects
-
-- 🤔 I’m looking for help with CNN
-
-- 💬 Ask me about tech related, I am happy to help;
-
-- 📫 How to reach me: **athmajan007@gmail.com**
-
-
-<br>
-
-### 🔨 Languages and Tools:
-
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="42"
-      height="42"
-    />
-  </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-
-
-<br>
-
-## 📊 My Github Stats
-
-  <br/>
-  <p align="center">
-<img alt="Athmajan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Athmajanaji&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
- <img alt="Aseel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athmajanaji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  <br/>
- </p>
-<br/>
-<br/>
-
-<p align="center"><img alt="Atmajan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Athmajanaji&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></p>
 <p align="center">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aseel Paul's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Athmajanaji&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
- </p>
-<br/>
+  <img src="https://github.com/aseel-sm/aseel-sm/blob/main/giphy.gif" alt="athmajan gif"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Athmajan</h1>
+
+<p align="center">
+  <strong>Software Engineer @ Equifax India | Backend Developer | Cloud & Distributed Systems Enthusiast</strong>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a passionate **backend engineer** who loves building scalable, reliable, high-performance systems.  
+Currently working at **Equifax India**, focusing on:
+
+- Enterprise-grade **Java + Spring Boot** microservices  
+- **C#**, **.NET Framework**, and **.NET Core** backend development  
+- Distributed storage using **Google Cloud Spanner**  
+- Databases & optimization: **PostgreSQL**, **SQL Server**, **MySQL**  
+- Designing clean APIs, improving resilience & observability  
+
+I enjoy exploring cloud technologies, contributing to open-source, and constantly learning new things.  
+Still the same person who started coding in college—just upgraded. 🚀
+
+---
+
+## 🌱 Currently Learning
+- Advanced cloud-native patterns (GCP, Kubernetes)
+- System design & high scalability patterns
+- Event-driven architecture
+
+## 👯 Looking to Collaborate On
+- Open-source backend tools  
+- API frameworks & developer experience utilities  
+- Distributed systems projects  
+
+## 💬 Ask Me About
+Java • Spring Boot • .NET • C# • GCP • SQL • Spanner • API Design • Microservices
+
+## 📫 Reach Me
+**athmajan007@gmail.com**
+
+---
+
 <br/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Athmajanaji/Athmajanaji/main/assets/dev_banner.png" alt="dev banner" />
+</p>
+
+---
+
+# 🔧 Technologies & Tools
+
+<p align="left">
+
+<!-- Backend -->
+<img height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img height="42px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
+<img height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+<img height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
+
+<!-- Cloud -->
+<img height="42px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
+<img height="42px" src="https://seeklogo.com/images/S/spanner-logo-7318C90A32-seeklogo.com.png" />
+
+<!-- Databases -->
+<img height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+<img height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+<img height="42px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
+
+<!-- Tools -->
+<img height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+
+</p>
+
+---
+
+# 📊 My GitHub Stats
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Athmajanaji&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athmajanaji&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Athmajanaji&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Athmajanaji&theme=black-ice&hide_border=true" />
+</p>
+
+---
+
+### ✨ “Build. Break. Fix. Learn. Repeat.”  
