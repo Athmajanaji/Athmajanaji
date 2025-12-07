@@ -42,16 +42,6 @@ Java • Spring Boot • .NET • C# • GCP • SQL • Spanner • API Design 
 ## 📫 Reach Me
 **athmajan007@gmail.com**
 
----
-
-<br/>
-
-<p align="center">
-  <img src="[https://raw.githubusercontent.com/Athmajanaji/Athmajanaji/main/assets/dev_banner.png](https://chatgpt.com/s/m_693563db1fe881919b3c021f531e9a8b)" alt="dev banner" />
-</p>
-
----
-
 # 🔧 Technologies & Tools
 
 <p align="left">
@@ -64,7 +54,6 @@ Java • Spring Boot • .NET • C# • GCP • SQL • Spanner • API Design 
 
 <!-- Cloud -->
 <img height="42px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
-<img height="42px" src="https://seeklogo.com/images/S/spanner-logo-7318C90A32-seeklogo.com.png" />
 
 <!-- Databases -->
 <img height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
@@ -82,11 +71,6 @@ Java • Spring Boot • .NET • C# • GCP • SQL • Spanner • API Design 
 # 📊 My GitHub Stats
 
 <br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Athmajanaji&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athmajanaji&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Athmajanaji&theme=react-dark&hide_border=true&area=true" />
